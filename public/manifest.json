@@ -1,0 +1,21 @@
+{
+  "name": "LocaleLoop - Curated City Guides by Locals",
+  "short_name": "LocaleLoop",
+  "description": "Discover authentic local experiences with curated city guides created by locals",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#667eea",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "16x16 32x32 48x48",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["travel", "lifestyle", "social"],
+  "lang": "en",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "id": "localeloop"
+}
